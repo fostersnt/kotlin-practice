@@ -1,4 +1,4 @@
-package main
+package models
 
 class Car {
     var carName = "Toyota";

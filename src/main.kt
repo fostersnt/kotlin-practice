@@ -1,8 +1,6 @@
-import main.Car
+import models.Car
 
-//package main
-
-fun main() {
+fun main () {
     val newCar = Car();
     val details = newCar.getCarDetails();
     println(details);
